@@ -22,4 +22,4 @@ We are the first web application to market that provides instant slide creation 
 It was a learning experience for many of us this year at Penn Apps. For some, it was their first experience diving into front end development using services, and for others it was their first back end ventures. Either way, both sides of our team learned an extreme deal.
 
 ## What's next for ScreenKraut
-We hope to inspire as many hackers at Penn Apps as we can to use Screen Kraut for their presentations. Our product is simple and streamlined providing easy scale and adaption.
+We hope to inspire as many hackers as we can to use Screen Kraut for their presentations. Our product is simple and streamlined providing easy scale and adaption.
