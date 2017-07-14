@@ -1,6 +1,6 @@
 ## Team Members: Ben Zhang, Corbin Muraro, Simon Frey, Lawrence Yan [Built at Penn Apps XV]  
 
-###Live Preview
+##Live Preview - (Down temporarily due to server needs :( Let me know if you want me to spin it back up!)
 www.screenkraut.me
 
 ## Inspiration
